@@ -1,5 +1,6 @@
 gdp and income - Bureau of Economic Analysis
-energy- energy information administration
+energy- energy information administration (https://www.eia.gov/electricity/monthly/)
+net metering data - https://www.eia.gov/electricity/data/eia861m/#netmeter
 temperature - https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/8/tavg/1/0/2011-2022?base_prd=true&begbaseyear=1901&endbaseyear=2000
 other <- https://www.weather.gov/wrh/climate?wfo=hfo
 non_iou_zipcodes_2020 - rates_per_zipcode - https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2020 
@@ -10,3 +11,4 @@ This dataset, compiled by NREL using data from ABB, the Velocity Suite (http://e
 
 
 non-iou: https://data.openei.org/submissions/5806 & https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2022 
+
