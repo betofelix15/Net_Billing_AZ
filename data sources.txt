@@ -1,0 +1,12 @@
+gdp and income - Bureau of Economic Analysis
+energy- energy information administration
+temperature - https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/8/tavg/1/0/2011-2022?base_prd=true&begbaseyear=1901&endbaseyear=2000
+other <- https://www.weather.gov/wrh/climate?wfo=hfo
+non_iou_zipcodes_2020 - rates_per_zipcode - https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2020 
+: U.S. Electric Utility Companies and Rates: Look-up by Zipcode (2022)
+Metadata Updated: April 6, 2024
+
+This dataset, compiled by NREL using data from ABB, the Velocity Suite (http://energymarketintel.com/) and the U.S. Energy Information Administration dataset 861 (http://www.eia.gov/electricity/data/eia861/), provides average residential, commercial and industrial electricity rates with likely zip codes for both investor owned utilities (IOU) and non-investor owned utilities. Note: the files include average rates for each utility (not average rates per zip code), but not the detailed rate structure data found in the OpenEI U.S. Utility Rate Database (https://openei.org/apps/USURDB/).
+
+
+non-iou: https://data.openei.org/submissions/5806 & https://catalog.data.gov/dataset/u-s-electric-utility-companies-and-rates-look-up-by-zipcode-2022 
